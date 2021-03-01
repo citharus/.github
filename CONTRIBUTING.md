@@ -39,7 +39,7 @@ If you find a security vulnerability, do NOT open an issue. Email citharus@proto
 ### Every bug unrelated to a security vulnerability:
 1. Go to the issue tracker.
 1. Open a new issue.
-1. Fill out the template.
+1. Fill out the [template](https://github.com/citharus/.github/blob/main/.github/ISSUE_TEMPLATE/bug_report.md).
 1. Tag the issue as a bug.
 1. Add tags related to the bug.
 
@@ -50,14 +50,14 @@ All feature requests should be related to the project and add value to it.
 ### Feature request:
 1. Go to the issue tracker.
 1. Open a new issue.
-1. Fill out the template.
+1. Fill out the [template](https://github.com/citharus/.github/blob/main/.github/ISSUE_TEMPLATE/feature_request.md).
 1. Tag the issue as a new feature.
 1. Add tags related to the feature.
 
 ### Enhancement request:
 1. Go to the issue tracker.
 1. Open a new issue.
-1. Fill out the template.
+1. Fill out the [template](https://github.com/citharus/.github/blob/main/.github/ISSUE_TEMPLATE/enhancement-request.md).
 1. Tag the issue as a new enhancement.
 1. Add tags related to the enhancement.
 
