@@ -16,7 +16,6 @@ We do not want our issue tracker to be used for questions. Check first if someon
 1. Read and accept the [code of conduct][CODE_OF_CONDUCT].
 1. Use the issue and pull requests templates provided by the project.
 1. Keep issues and pull requests small.
-1. Follow [PEP-8](https://www.python.org/dev/peps/pep-0008/) and other Python standards.
 
 # Getting started
 ### For everything larger than a one or two-line fix:
